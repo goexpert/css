@@ -51,3 +51,10 @@
  4. 그 외 시각적 요소(테두리 배경 등)
  5. @include
  6. 중첩 선택자
+
+-----
+
+###참고자료
+ - 인사이트 SMACSS
+ - Airbnb CSS/Sass 가이드
+ - Code Guide by @mdo
